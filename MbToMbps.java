@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class MbToMbps{
     public static void main(String[] args) {
-        System.out.println("This program will convert your intenet download speed from Megabytes (MB/s) to Megabits (Mbps)");
+        System.out.println("This program will convert your internet download speed from Megabytes (MB/s) to Megabits (Mbps)");
         System.out.println("Pleases enter your current download speed in MB/s");
 
         Scanner input = new Scanner(System.in);
